@@ -2,7 +2,7 @@
 
 **A beginner-friendly guide to installing Python, Visual Studio Code, extensions, and essential Python packages on macOS.**
 
-Created by **Daniel Sowah**
+
 
 ---
 
